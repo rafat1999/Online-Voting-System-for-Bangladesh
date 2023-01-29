@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background-color: #fdcb6e;
+}
+
+#header{
+	padding: 10px;
+}
+
+#header h1{
+	font-size: 35px;
+	font-family: cursive;
+}
+
+#header h3{
+	font-size: 35px;
+	font-family: cursive;
+}
+
